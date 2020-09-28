@@ -5,3 +5,4 @@ here is the link to my work and hopefully the link to the screnshot should work 
 # Here's the link to my oshape
 https://cvilleschools.onshape.com/documents/1eda49757de01ac24644a919/w/9459d14929e25bf7374512f5/e/12e980c0f10654ca3c95ab12
 # and here's the screenshot to the mount
+file:///home/chronos/u-804ed45cc47c29ecd65677b511e03b4e6f0f1936/MyFiles/Downloads/ink.png
